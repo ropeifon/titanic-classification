@@ -1,2 +1,2 @@
-# titanic-logistic-regression
-A logistic regression project using the titanic dataset.
+# titanic-classification
+My first classification model using the Titanic dataset.
